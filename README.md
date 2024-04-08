@@ -1,4 +1,4 @@
-# Hola
+# Primer repositorio
 Primer repositorio en GitHub
-##Descripción
+## Descripción
 Este es mi primer repositorio creado para aprender a usarlo
